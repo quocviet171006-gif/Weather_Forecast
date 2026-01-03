@@ -15,6 +15,7 @@ This project implements a weather forecast analysis using historical weather dat
 - Numpy
 - Seaborn
 - Datatime
+- Tkinter
   
 ## How to run
 1. Install required libraries
