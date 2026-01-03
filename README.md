@@ -19,3 +19,8 @@ This project implements a weather forecast analysis using historical weather dat
 ## How to run
 1. Install required libraries
 2. Run the main script
+
+## References
+- Pandas Documentation: https://pandas.pydata.org/
+- Matplotlib Documentation: https://matplotlib.org/
+- Dataset source: Kaggle
